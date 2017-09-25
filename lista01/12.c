@@ -13,6 +13,4 @@ int main() {
         sscanf(str, "%X", &x);
         printf("%d", x);
     }
-    
-
 }
